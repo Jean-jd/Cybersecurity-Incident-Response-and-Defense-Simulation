@@ -1,0 +1,801 @@
+threat,response
+Business Email Compromise via USB targeting Financial Systems,Verify transfer requests. Use dual control.
+Phishing Email via Email targeting Financial Systems,Do not click links. Report email. Run antivirus scan.
+Drive-by Download via Cloud targeting Financial Systems,Block malicious sites. Scan devices.
+Keylogger Infection on Mobile targeting IoT Devices,Detect and remove keyloggers. Change passwords.
+Man-in-the-Middle via USB targeting IoT Devices,Use encryption. Validate certificates.
+Spear Phishing on Mobile targeting Customer Data,Verify sender identity. Educate users. Use email filters.
+Insider Threat on Mobile targeting Internal Network,Monitor user activity. Enforce least privilege.
+Social Engineering via Email targeting Financial Systems,User training. Verification procedures.
+Malware Infection via Web App targeting Internal Network,Run antivirus. Remove malware. Update definitions.
+Data Exfiltration on Windows targeting Employee Accounts,Monitor data flows. Encrypt sensitive data.
+Business Email Compromise via Cloud targeting Employee Accounts,Verify transfer requests. Use dual control.
+Password Spraying on Windows targeting IoT Devices,Monitor logins. Enforce MFA and lockouts.
+Data Exfiltration on Linux targeting Customer Data,Monitor data flows. Encrypt sensitive data.
+Password Spraying on Mobile targeting Customer Data,Monitor logins. Enforce MFA and lockouts.
+Insider Threat on Mobile targeting Customer Data,Monitor user activity. Enforce least privilege.
+Drive-by Download via Network targeting Financial Systems,Block malicious sites. Scan devices.
+Man-in-the-Middle via Web App targeting Customer Data,Use encryption. Validate certificates.
+DNS Spoofing via Email targeting Customer Data,Use DNSSEC. Monitor DNS traffic.
+DNS Spoofing via Web App targeting Customer Data,Use DNSSEC. Monitor DNS traffic.
+Keylogger Infection via Web App targeting Employee Accounts,Detect and remove keyloggers. Change passwords.
+Social Engineering via Web App targeting Employee Accounts,User training. Verification procedures.
+Spear Phishing via Network targeting Employee Accounts,Verify sender identity. Educate users. Use email filters.
+Credential Stuffing on Mobile targeting IoT Devices,Detect anomalies. Enforce MFA.
+DNS Spoofing via USB targeting Financial Systems,Use DNSSEC. Monitor DNS traffic.
+DNS Spoofing via Network targeting IoT Devices,Use DNSSEC. Monitor DNS traffic.
+Phishing Email on Mobile targeting Financial Systems,Do not click links. Report email. Run antivirus scan.
+Password Spraying on Windows targeting Employee Accounts,Monitor logins. Enforce MFA and lockouts.
+Malware Infection on Mobile targeting Internal Network,Run antivirus. Remove malware. Update definitions.
+Insider Threat on Linux targeting Employee Accounts,Monitor user activity. Enforce least privilege.
+Data Exfiltration on Mobile targeting Customer Data,Monitor data flows. Encrypt sensitive data.
+Phishing Email via Web App targeting Employee Accounts,Do not click links. Report email. Run antivirus scan.
+Man-in-the-Middle via Email targeting Employee Accounts,Use encryption. Validate certificates.
+Cross-Site Scripting (XSS) on Linux targeting Customer Data,Sanitize user inputs. Use CSP headers.
+Data Exfiltration via Cloud targeting Employee Accounts,Monitor data flows. Encrypt sensitive data.
+Keylogger Infection via Web App targeting Financial Systems,Detect and remove keyloggers. Change passwords.
+Zero-Day Exploit via Network targeting Internal Network,Apply patches promptly. Use behavior detection.
+Phishing Email via Cloud targeting Customer Data,Do not click links. Report email. Run antivirus scan.
+DDoS Attack via Email targeting Employee Accounts,Monitor traffic. Use mitigation tools. Contact ISP.
+SQL Injection via USB targeting IoT Devices,Validate inputs. Use prepared statements.
+Zero-Day Exploit on Mobile targeting Employee Accounts,Apply patches promptly. Use behavior detection.
+DDoS Attack on Mobile targeting Employee Accounts,Monitor traffic. Use mitigation tools. Contact ISP.
+Phishing Email on Linux targeting Customer Data,Do not click links. Report email. Run antivirus scan.
+Privilege Escalation via Email targeting Financial Systems,Patch vulnerabilities. Enforce access controls.
+Cross-Site Scripting (XSS) via Network targeting Customer Data,Sanitize user inputs. Use CSP headers.
+Drive-by Download via Network targeting Customer Data,Block malicious sites. Scan devices.
+Password Spraying via Network targeting Employee Accounts,Monitor logins. Enforce MFA and lockouts.
+Social Engineering on Mobile targeting Internal Network,User training. Verification procedures.
+Spear Phishing on Linux targeting Financial Systems,Verify sender identity. Educate users. Use email filters.
+Insider Threat on Mobile targeting IoT Devices,Monitor user activity. Enforce least privilege.
+Password Spraying via Cloud targeting Financial Systems,Monitor logins. Enforce MFA and lockouts.
+Keylogger Infection via Network targeting Customer Data,Detect and remove keyloggers. Change passwords.
+Phishing Email via Network targeting Internal Network,Do not click links. Report email. Run antivirus scan.
+DNS Spoofing via Cloud targeting Customer Data,Use DNSSEC. Monitor DNS traffic.
+Man-in-the-Middle on Mobile targeting Customer Data,Use encryption. Validate certificates.
+Business Email Compromise on Windows targeting Employee Accounts,Verify transfer requests. Use dual control.
+Social Engineering via Cloud targeting IoT Devices,User training. Verification procedures.
+Password Spraying via Cloud targeting Customer Data,Monitor logins. Enforce MFA and lockouts.
+Privilege Escalation on Mobile targeting Financial Systems,Patch vulnerabilities. Enforce access controls.
+Spear Phishing via USB targeting Customer Data,Verify sender identity. Educate users. Use email filters.
+Malware Infection via Cloud targeting Internal Network,Run antivirus. Remove malware. Update definitions.
+Social Engineering on Windows targeting Customer Data,User training. Verification procedures.
+Password Spraying via Network targeting Customer Data,Monitor logins. Enforce MFA and lockouts.
+Insider Threat via Web App targeting IoT Devices,Monitor user activity. Enforce least privilege.
+Phishing Email on Windows targeting Financial Systems,Do not click links. Report email. Run antivirus scan.
+Password Spraying via USB targeting Financial Systems,Monitor logins. Enforce MFA and lockouts.
+Keylogger Infection on Mobile targeting Employee Accounts,Detect and remove keyloggers. Change passwords.
+Malware Infection on Linux targeting Customer Data,Run antivirus. Remove malware. Update definitions.
+Cross-Site Scripting (XSS) on Linux targeting Internal Network,Sanitize user inputs. Use CSP headers.
+DDoS Attack via Email targeting Internal Network,Monitor traffic. Use mitigation tools. Contact ISP.
+Malicious Insider on Linux targeting Employee Accounts,Implement segregation of duties.
+Insider Threat via USB targeting IoT Devices,Monitor user activity. Enforce least privilege.
+Malicious Insider on Mobile targeting Customer Data,Implement segregation of duties.
+Zero-Day Exploit on Windows targeting Internal Network,Apply patches promptly. Use behavior detection.
+Ransomware Attack on Windows targeting Employee Accounts,Isolate systems. Do not pay ransom. Restore backups.
+Zero-Day Exploit via Cloud targeting Customer Data,Apply patches promptly. Use behavior detection.
+Phishing Email on Mobile targeting IoT Devices,Do not click links. Report email. Run antivirus scan.
+Privilege Escalation via USB targeting IoT Devices,Patch vulnerabilities. Enforce access controls.
+Social Engineering on Mobile targeting Customer Data,User training. Verification procedures.
+DNS Spoofing via Network targeting Customer Data,Use DNSSEC. Monitor DNS traffic.
+Credential Stuffing via USB targeting Financial Systems,Detect anomalies. Enforce MFA.
+Credential Stuffing via USB targeting Customer Data,Detect anomalies. Enforce MFA.
+Business Email Compromise on Linux targeting Financial Systems,Verify transfer requests. Use dual control.
+Ransomware Attack via Email targeting Employee Accounts,Isolate systems. Do not pay ransom. Restore backups.
+Zero-Day Exploit on Linux targeting Financial Systems,Apply patches promptly. Use behavior detection.
+Social Engineering via Network targeting Customer Data,User training. Verification procedures.
+Business Email Compromise on Windows targeting Internal Network,Verify transfer requests. Use dual control.
+Phishing Email via Web App targeting Internal Network,Do not click links. Report email. Run antivirus scan.
+Data Exfiltration via Cloud targeting Customer Data,Monitor data flows. Encrypt sensitive data.
+Ransomware Attack on Linux targeting Employee Accounts,Isolate systems. Do not pay ransom. Restore backups.
+Zero-Day Exploit on Mobile targeting IoT Devices,Apply patches promptly. Use behavior detection.
+Spear Phishing on Mobile targeting Internal Network,Verify sender identity. Educate users. Use email filters.
+Spear Phishing via Cloud targeting Customer Data,Verify sender identity. Educate users. Use email filters.
+Man-in-the-Middle via USB targeting Financial Systems,Use encryption. Validate certificates.
+SQL Injection via Email targeting Employee Accounts,Validate inputs. Use prepared statements.
+Drive-by Download on Mobile targeting Internal Network,Block malicious sites. Scan devices.
+DNS Spoofing via Cloud targeting Financial Systems,Use DNSSEC. Monitor DNS traffic.
+Privilege Escalation via Email targeting Employee Accounts,Patch vulnerabilities. Enforce access controls.
+DNS Spoofing on Linux targeting Customer Data,Use DNSSEC. Monitor DNS traffic.
+DNS Spoofing via USB targeting Employee Accounts,Use DNSSEC. Monitor DNS traffic.
+Insider Threat via Cloud targeting Employee Accounts,Monitor user activity. Enforce least privilege.
+DDoS Attack via Web App targeting Customer Data,Monitor traffic. Use mitigation tools. Contact ISP.
+Data Exfiltration via Web App targeting Customer Data,Monitor data flows. Encrypt sensitive data.
+Business Email Compromise via USB targeting IoT Devices,Verify transfer requests. Use dual control.
+Malware Infection via Network targeting Financial Systems,Run antivirus. Remove malware. Update definitions.
+Cross-Site Scripting (XSS) via Cloud targeting Employee Accounts,Sanitize user inputs. Use CSP headers.
+Ransomware Attack on Linux targeting Financial Systems,Isolate systems. Do not pay ransom. Restore backups.
+Privilege Escalation on Linux targeting Employee Accounts,Patch vulnerabilities. Enforce access controls.
+Privilege Escalation via Web App targeting Internal Network,Patch vulnerabilities. Enforce access controls.
+Keylogger Infection via Email targeting Employee Accounts,Detect and remove keyloggers. Change passwords.
+Spear Phishing on Windows targeting IoT Devices,Verify sender identity. Educate users. Use email filters.
+Spear Phishing via Web App targeting Customer Data,Verify sender identity. Educate users. Use email filters.
+SQL Injection on Mobile targeting Customer Data,Validate inputs. Use prepared statements.
+Spear Phishing via USB targeting Employee Accounts,Verify sender identity. Educate users. Use email filters.
+Credential Stuffing via Network targeting Internal Network,Detect anomalies. Enforce MFA.
+Man-in-the-Middle via USB targeting Customer Data,Use encryption. Validate certificates.
+Man-in-the-Middle on Linux targeting Customer Data,Use encryption. Validate certificates.
+DNS Spoofing on Linux targeting IoT Devices,Use DNSSEC. Monitor DNS traffic.
+Malware Infection on Mobile targeting Customer Data,Run antivirus. Remove malware. Update definitions.
+Zero-Day Exploit on Linux targeting Internal Network,Apply patches promptly. Use behavior detection.
+Malware Infection via USB targeting Internal Network,Run antivirus. Remove malware. Update definitions.
+DDoS Attack on Mobile targeting Financial Systems,Monitor traffic. Use mitigation tools. Contact ISP.
+Privilege Escalation via Web App targeting IoT Devices,Patch vulnerabilities. Enforce access controls.
+Malicious Insider via Network targeting Internal Network,Implement segregation of duties.
+Credential Stuffing via Web App targeting Customer Data,Detect anomalies. Enforce MFA.
+Privilege Escalation on Mobile targeting IoT Devices,Patch vulnerabilities. Enforce access controls.
+Drive-by Download via Email targeting Employee Accounts,Block malicious sites. Scan devices.
+Phishing Email on Windows targeting Internal Network,Do not click links. Report email. Run antivirus scan.
+Password Spraying via Cloud targeting Employee Accounts,Monitor logins. Enforce MFA and lockouts.
+Zero-Day Exploit on Windows targeting Financial Systems,Apply patches promptly. Use behavior detection.
+Drive-by Download via USB targeting Financial Systems,Block malicious sites. Scan devices.
+Business Email Compromise on Mobile targeting Customer Data,Verify transfer requests. Use dual control.
+Cross-Site Scripting (XSS) on Windows targeting Customer Data,Sanitize user inputs. Use CSP headers.
+Drive-by Download via Web App targeting Internal Network,Block malicious sites. Scan devices.
+Malicious Insider via Web App targeting IoT Devices,Implement segregation of duties.
+Cross-Site Scripting (XSS) via Network targeting Financial Systems,Sanitize user inputs. Use CSP headers.
+Credential Stuffing via Web App targeting Internal Network,Detect anomalies. Enforce MFA.
+Cross-Site Scripting (XSS) via Cloud targeting Internal Network,Sanitize user inputs. Use CSP headers.
+Data Exfiltration on Linux targeting IoT Devices,Monitor data flows. Encrypt sensitive data.
+Insider Threat via Network targeting Internal Network,Monitor user activity. Enforce least privilege.
+SQL Injection via Cloud targeting Customer Data,Validate inputs. Use prepared statements.
+Privilege Escalation on Linux targeting Internal Network,Patch vulnerabilities. Enforce access controls.
+Business Email Compromise on Windows targeting Customer Data,Verify transfer requests. Use dual control.
+Phishing Email via Cloud targeting Employee Accounts,Do not click links. Report email. Run antivirus scan.
+Data Exfiltration via Web App targeting Financial Systems,Monitor data flows. Encrypt sensitive data.
+Cross-Site Scripting (XSS) on Mobile targeting Employee Accounts,Sanitize user inputs. Use CSP headers.
+Man-in-the-Middle on Linux targeting IoT Devices,Use encryption. Validate certificates.
+DNS Spoofing via Network targeting Employee Accounts,Use DNSSEC. Monitor DNS traffic.
+Cross-Site Scripting (XSS) via Web App targeting Financial Systems,Sanitize user inputs. Use CSP headers.
+Man-in-the-Middle via Web App targeting Internal Network,Use encryption. Validate certificates.
+Zero-Day Exploit via Cloud targeting Employee Accounts,Apply patches promptly. Use behavior detection.
+Malicious Insider via Email targeting Internal Network,Implement segregation of duties.
+Insider Threat via Cloud targeting IoT Devices,Monitor user activity. Enforce least privilege.
+Malware Infection via Network targeting Customer Data,Run antivirus. Remove malware. Update definitions.
+Keylogger Infection on Mobile targeting Customer Data,Detect and remove keyloggers. Change passwords.
+SQL Injection via Network targeting Internal Network,Validate inputs. Use prepared statements.
+Malicious Insider via Email targeting Employee Accounts,Implement segregation of duties.
+Data Exfiltration on Mobile targeting IoT Devices,Monitor data flows. Encrypt sensitive data.
+Password Spraying on Windows targeting Customer Data,Monitor logins. Enforce MFA and lockouts.
+Phishing Email on Windows targeting Employee Accounts,Do not click links. Report email. Run antivirus scan.
+Keylogger Infection via Cloud targeting IoT Devices,Detect and remove keyloggers. Change passwords.
+Insider Threat via Network targeting Employee Accounts,Monitor user activity. Enforce least privilege.
+Credential Stuffing via Cloud targeting Internal Network,Detect anomalies. Enforce MFA.
+Malicious Insider via USB targeting Customer Data,Implement segregation of duties.
+SQL Injection via Network targeting Financial Systems,Validate inputs. Use prepared statements.
+Privilege Escalation on Windows targeting Customer Data,Patch vulnerabilities. Enforce access controls.
+Zero-Day Exploit via Cloud targeting IoT Devices,Apply patches promptly. Use behavior detection.
+Drive-by Download via Network targeting IoT Devices,Block malicious sites. Scan devices.
+Business Email Compromise on Linux targeting Employee Accounts,Verify transfer requests. Use dual control.
+DDoS Attack via Network targeting Customer Data,Monitor traffic. Use mitigation tools. Contact ISP.
+Data Exfiltration via Network targeting Financial Systems,Monitor data flows. Encrypt sensitive data.
+Credential Stuffing on Linux targeting Financial Systems,Detect anomalies. Enforce MFA.
+Spear Phishing on Windows targeting Financial Systems,Verify sender identity. Educate users. Use email filters.
+Phishing Email on Mobile targeting Employee Accounts,Do not click links. Report email. Run antivirus scan.
+Keylogger Infection via Network targeting Financial Systems,Detect and remove keyloggers. Change passwords.
+Cross-Site Scripting (XSS) via USB targeting Internal Network,Sanitize user inputs. Use CSP headers.
+Business Email Compromise on Linux targeting Internal Network,Verify transfer requests. Use dual control.
+Cross-Site Scripting (XSS) via Email targeting Financial Systems,Sanitize user inputs. Use CSP headers.
+Social Engineering via Cloud targeting Internal Network,User training. Verification procedures.
+Insider Threat on Linux targeting Internal Network,Monitor user activity. Enforce least privilege.
+Drive-by Download on Windows targeting Employee Accounts,Block malicious sites. Scan devices.
+Password Spraying via Network targeting IoT Devices,Monitor logins. Enforce MFA and lockouts.
+Phishing Email via Network targeting Financial Systems,Do not click links. Report email. Run antivirus scan.
+Ransomware Attack via Web App targeting Customer Data,Isolate systems. Do not pay ransom. Restore backups.
+Data Exfiltration via Web App targeting Employee Accounts,Monitor data flows. Encrypt sensitive data.
+Keylogger Infection on Windows targeting Customer Data,Detect and remove keyloggers. Change passwords.
+Ransomware Attack on Linux targeting Internal Network,Isolate systems. Do not pay ransom. Restore backups.
+Cross-Site Scripting (XSS) on Mobile targeting Customer Data,Sanitize user inputs. Use CSP headers.
+Data Exfiltration via USB targeting Financial Systems,Monitor data flows. Encrypt sensitive data.
+DDoS Attack on Windows targeting Customer Data,Monitor traffic. Use mitigation tools. Contact ISP.
+Spear Phishing via Cloud targeting Financial Systems,Verify sender identity. Educate users. Use email filters.
+Spear Phishing via Web App targeting Internal Network,Verify sender identity. Educate users. Use email filters.
+SQL Injection on Windows targeting Employee Accounts,Validate inputs. Use prepared statements.
+SQL Injection via Network targeting Employee Accounts,Validate inputs. Use prepared statements.
+Keylogger Infection via Network targeting Employee Accounts,Detect and remove keyloggers. Change passwords.
+Spear Phishing on Windows targeting Customer Data,Verify sender identity. Educate users. Use email filters.
+Malware Infection on Windows targeting IoT Devices,Run antivirus. Remove malware. Update definitions.
+Phishing Email via Email targeting Employee Accounts,Do not click links. Report email. Run antivirus scan.
+Man-in-the-Middle via USB targeting Employee Accounts,Use encryption. Validate certificates.
+DDoS Attack via Email targeting Financial Systems,Monitor traffic. Use mitigation tools. Contact ISP.
+Keylogger Infection on Mobile targeting Internal Network,Detect and remove keyloggers. Change passwords.
+Man-in-the-Middle on Windows targeting Customer Data,Use encryption. Validate certificates.
+Drive-by Download via Network targeting Internal Network,Block malicious sites. Scan devices.
+Credential Stuffing via Network targeting Financial Systems,Detect anomalies. Enforce MFA.
+Insider Threat via Network targeting Customer Data,Monitor user activity. Enforce least privilege.
+Privilege Escalation via Email targeting Customer Data,Patch vulnerabilities. Enforce access controls.
+Credential Stuffing via USB targeting Employee Accounts,Detect anomalies. Enforce MFA.
+SQL Injection via Cloud targeting IoT Devices,Validate inputs. Use prepared statements.
+Social Engineering on Windows targeting IoT Devices,User training. Verification procedures.
+Privilege Escalation via Network targeting Employee Accounts,Patch vulnerabilities. Enforce access controls.
+Data Exfiltration via Email targeting Financial Systems,Monitor data flows. Encrypt sensitive data.
+Privilege Escalation via Cloud targeting Internal Network,Patch vulnerabilities. Enforce access controls.
+DDoS Attack via Network targeting Employee Accounts,Monitor traffic. Use mitigation tools. Contact ISP.
+Zero-Day Exploit on Windows targeting Employee Accounts,Apply patches promptly. Use behavior detection.
+Drive-by Download via USB targeting IoT Devices,Block malicious sites. Scan devices.
+Cross-Site Scripting (XSS) via USB targeting Financial Systems,Sanitize user inputs. Use CSP headers.
+Credential Stuffing via Cloud targeting Financial Systems,Detect anomalies. Enforce MFA.
+Drive-by Download on Mobile targeting IoT Devices,Block malicious sites. Scan devices.
+Social Engineering on Linux targeting IoT Devices,User training. Verification procedures.
+SQL Injection on Mobile targeting Internal Network,Validate inputs. Use prepared statements.
+Cross-Site Scripting (XSS) via USB targeting IoT Devices,Sanitize user inputs. Use CSP headers.
+SQL Injection via USB targeting Employee Accounts,Validate inputs. Use prepared statements.
+DNS Spoofing on Linux targeting Employee Accounts,Use DNSSEC. Monitor DNS traffic.
+SQL Injection via Email targeting Internal Network,Validate inputs. Use prepared statements.
+SQL Injection via USB targeting Financial Systems,Validate inputs. Use prepared statements.
+Malicious Insider via USB targeting Employee Accounts,Implement segregation of duties.
+Malware Infection via Email targeting Customer Data,Run antivirus. Remove malware. Update definitions.
+DNS Spoofing via Email targeting Employee Accounts,Use DNSSEC. Monitor DNS traffic.
+SQL Injection on Mobile targeting IoT Devices,Validate inputs. Use prepared statements.
+Malicious Insider on Windows targeting Employee Accounts,Implement segregation of duties.
+Malicious Insider via Email targeting Customer Data,Implement segregation of duties.
+Cross-Site Scripting (XSS) via Network targeting Internal Network,Sanitize user inputs. Use CSP headers.
+SQL Injection on Linux targeting IoT Devices,Validate inputs. Use prepared statements.
+Malicious Insider via Web App targeting Internal Network,Implement segregation of duties.
+Malware Infection on Mobile targeting Financial Systems,Run antivirus. Remove malware. Update definitions.
+Credential Stuffing on Mobile targeting Employee Accounts,Detect anomalies. Enforce MFA.
+Drive-by Download via Web App targeting Financial Systems,Block malicious sites. Scan devices.
+DDoS Attack via Web App targeting Internal Network,Monitor traffic. Use mitigation tools. Contact ISP.
+Phishing Email on Linux targeting Employee Accounts,Do not click links. Report email. Run antivirus scan.
+Drive-by Download via Email targeting Internal Network,Block malicious sites. Scan devices.
+Data Exfiltration via Cloud targeting Internal Network,Monitor data flows. Encrypt sensitive data.
+Data Exfiltration on Linux targeting Employee Accounts,Monitor data flows. Encrypt sensitive data.
+Cross-Site Scripting (XSS) on Windows targeting Internal Network,Sanitize user inputs. Use CSP headers.
+Data Exfiltration on Mobile targeting Employee Accounts,Monitor data flows. Encrypt sensitive data.
+Social Engineering via Email targeting Employee Accounts,User training. Verification procedures.
+Business Email Compromise via Web App targeting Employee Accounts,Verify transfer requests. Use dual control.
+Ransomware Attack via Network targeting Customer Data,Isolate systems. Do not pay ransom. Restore backups.
+Social Engineering via Web App targeting IoT Devices,User training. Verification procedures.
+Man-in-the-Middle via Web App targeting Employee Accounts,Use encryption. Validate certificates.
+DDoS Attack via Cloud targeting Financial Systems,Monitor traffic. Use mitigation tools. Contact ISP.
+Malicious Insider via Email targeting Financial Systems,Implement segregation of duties.
+Credential Stuffing via USB targeting Internal Network,Detect anomalies. Enforce MFA.
+Malicious Insider on Linux targeting Internal Network,Implement segregation of duties.
+Business Email Compromise via USB targeting Customer Data,Verify transfer requests. Use dual control.
+Malware Infection via Network targeting IoT Devices,Run antivirus. Remove malware. Update definitions.
+Business Email Compromise on Linux targeting IoT Devices,Verify transfer requests. Use dual control.
+DNS Spoofing via Web App targeting Employee Accounts,Use DNSSEC. Monitor DNS traffic.
+Zero-Day Exploit via Web App targeting IoT Devices,Apply patches promptly. Use behavior detection.
+Malware Infection on Mobile targeting IoT Devices,Run antivirus. Remove malware. Update definitions.
+Privilege Escalation on Linux targeting Customer Data,Patch vulnerabilities. Enforce access controls.
+Ransomware Attack via Web App targeting Financial Systems,Isolate systems. Do not pay ransom. Restore backups.
+Man-in-the-Middle via Email targeting Financial Systems,Use encryption. Validate certificates.
+DDoS Attack via Web App targeting Employee Accounts,Monitor traffic. Use mitigation tools. Contact ISP.
+Data Exfiltration via Cloud targeting Financial Systems,Monitor data flows. Encrypt sensitive data.
+Privilege Escalation via Email targeting IoT Devices,Patch vulnerabilities. Enforce access controls.
+Password Spraying via Web App targeting Customer Data,Monitor logins. Enforce MFA and lockouts.
+Cross-Site Scripting (XSS) via Cloud targeting Customer Data,Sanitize user inputs. Use CSP headers.
+SQL Injection via Email targeting IoT Devices,Validate inputs. Use prepared statements.
+SQL Injection via Email targeting Customer Data,Validate inputs. Use prepared statements.
+Spear Phishing via Cloud targeting Employee Accounts,Verify sender identity. Educate users. Use email filters.
+Spear Phishing via Email targeting Employee Accounts,Verify sender identity. Educate users. Use email filters.
+Malware Infection via Email targeting Employee Accounts,Run antivirus. Remove malware. Update definitions.
+Man-in-the-Middle on Windows targeting Employee Accounts,Use encryption. Validate certificates.
+Malware Infection on Windows targeting Financial Systems,Run antivirus. Remove malware. Update definitions.
+Ransomware Attack via USB targeting Internal Network,Isolate systems. Do not pay ransom. Restore backups.
+Phishing Email on Linux targeting Financial Systems,Do not click links. Report email. Run antivirus scan.
+Zero-Day Exploit via Email targeting IoT Devices,Apply patches promptly. Use behavior detection.
+Drive-by Download via Email targeting Financial Systems,Block malicious sites. Scan devices.
+Man-in-the-Middle via Web App targeting IoT Devices,Use encryption. Validate certificates.
+DDoS Attack on Linux targeting Customer Data,Monitor traffic. Use mitigation tools. Contact ISP.
+Data Exfiltration via Web App targeting Internal Network,Monitor data flows. Encrypt sensitive data.
+Social Engineering via Cloud targeting Customer Data,User training. Verification procedures.
+Malware Infection via Web App targeting Financial Systems,Run antivirus. Remove malware. Update definitions.
+Malicious Insider on Mobile targeting IoT Devices,Implement segregation of duties.
+Credential Stuffing on Linux targeting Customer Data,Detect anomalies. Enforce MFA.
+Ransomware Attack via Network targeting Financial Systems,Isolate systems. Do not pay ransom. Restore backups.
+Phishing Email via Email targeting Internal Network,Do not click links. Report email. Run antivirus scan.
+Malicious Insider via Cloud targeting Financial Systems,Implement segregation of duties.
+Malware Infection on Windows targeting Internal Network,Run antivirus. Remove malware. Update definitions.
+SQL Injection on Windows targeting IoT Devices,Validate inputs. Use prepared statements.
+Malware Infection via Cloud targeting IoT Devices,Run antivirus. Remove malware. Update definitions.
+Cross-Site Scripting (XSS) via Network targeting Employee Accounts,Sanitize user inputs. Use CSP headers.
+Insider Threat via USB targeting Customer Data,Monitor user activity. Enforce least privilege.
+Zero-Day Exploit via Network targeting Employee Accounts,Apply patches promptly. Use behavior detection.
+Drive-by Download via USB targeting Internal Network,Block malicious sites. Scan devices.
+Man-in-the-Middle on Mobile targeting Employee Accounts,Use encryption. Validate certificates.
+Drive-by Download via Email targeting IoT Devices,Block malicious sites. Scan devices.
+Zero-Day Exploit via Email targeting Employee Accounts,Apply patches promptly. Use behavior detection.
+Social Engineering on Mobile targeting IoT Devices,User training. Verification procedures.
+Cross-Site Scripting (XSS) on Mobile targeting Internal Network,Sanitize user inputs. Use CSP headers.
+SQL Injection via Web App targeting IoT Devices,Validate inputs. Use prepared statements.
+Business Email Compromise via Network targeting Customer Data,Verify transfer requests. Use dual control.
+Cross-Site Scripting (XSS) via Network targeting IoT Devices,Sanitize user inputs. Use CSP headers.
+DDoS Attack via Network targeting IoT Devices,Monitor traffic. Use mitigation tools. Contact ISP.
+SQL Injection via Web App targeting Internal Network,Validate inputs. Use prepared statements.
+Data Exfiltration via USB targeting IoT Devices,Monitor data flows. Encrypt sensitive data.
+Business Email Compromise via Email targeting Customer Data,Verify transfer requests. Use dual control.
+Insider Threat via Email targeting Financial Systems,Monitor user activity. Enforce least privilege.
+DNS Spoofing on Windows targeting Employee Accounts,Use DNSSEC. Monitor DNS traffic.
+Insider Threat on Linux targeting Customer Data,Monitor user activity. Enforce least privilege.
+Ransomware Attack on Mobile targeting IoT Devices,Isolate systems. Do not pay ransom. Restore backups.
+Insider Threat via Cloud targeting Financial Systems,Monitor user activity. Enforce least privilege.
+Social Engineering on Windows targeting Employee Accounts,User training. Verification procedures.
+Password Spraying on Mobile targeting Employee Accounts,Monitor logins. Enforce MFA and lockouts.
+Zero-Day Exploit via Email targeting Customer Data,Apply patches promptly. Use behavior detection.
+Password Spraying via Network targeting Financial Systems,Monitor logins. Enforce MFA and lockouts.
+Phishing Email via USB targeting Customer Data,Do not click links. Report email. Run antivirus scan.
+Drive-by Download on Windows targeting IoT Devices,Block malicious sites. Scan devices.
+Social Engineering via Web App targeting Internal Network,User training. Verification procedures.
+Man-in-the-Middle on Mobile targeting Financial Systems,Use encryption. Validate certificates.
+Zero-Day Exploit via Web App targeting Customer Data,Apply patches promptly. Use behavior detection.
+DNS Spoofing via Email targeting Internal Network,Use DNSSEC. Monitor DNS traffic.
+DDoS Attack via USB targeting Internal Network,Monitor traffic. Use mitigation tools. Contact ISP.
+Zero-Day Exploit via Cloud targeting Financial Systems,Apply patches promptly. Use behavior detection.
+Credential Stuffing via Email targeting Internal Network,Detect anomalies. Enforce MFA.
+DNS Spoofing via Email targeting Financial Systems,Use DNSSEC. Monitor DNS traffic.
+Password Spraying on Windows targeting Internal Network,Monitor logins. Enforce MFA and lockouts.
+Malicious Insider via Network targeting IoT Devices,Implement segregation of duties.
+Spear Phishing on Mobile targeting Employee Accounts,Verify sender identity. Educate users. Use email filters.
+Phishing Email on Mobile targeting Internal Network,Do not click links. Report email. Run antivirus scan.
+Keylogger Infection on Linux targeting Customer Data,Detect and remove keyloggers. Change passwords.
+Spear Phishing on Linux targeting IoT Devices,Verify sender identity. Educate users. Use email filters.
+Business Email Compromise via Email targeting Employee Accounts,Verify transfer requests. Use dual control.
+SQL Injection via Cloud targeting Employee Accounts,Validate inputs. Use prepared statements.
+Social Engineering via Network targeting Internal Network,User training. Verification procedures.
+Malicious Insider via USB targeting Financial Systems,Implement segregation of duties.
+DNS Spoofing on Mobile targeting Employee Accounts,Use DNSSEC. Monitor DNS traffic.
+Business Email Compromise via Cloud targeting Customer Data,Verify transfer requests. Use dual control.
+Credential Stuffing via Email targeting Employee Accounts,Detect anomalies. Enforce MFA.
+Password Spraying via Email targeting Employee Accounts,Monitor logins. Enforce MFA and lockouts.
+Phishing Email via USB targeting Employee Accounts,Do not click links. Report email. Run antivirus scan.
+Malware Infection via Email targeting Financial Systems,Run antivirus. Remove malware. Update definitions.
+Malware Infection via Web App targeting IoT Devices,Run antivirus. Remove malware. Update definitions.
+Data Exfiltration via Network targeting Internal Network,Monitor data flows. Encrypt sensitive data.
+Phishing Email via USB targeting Internal Network,Do not click links. Report email. Run antivirus scan.
+Man-in-the-Middle via Network targeting Employee Accounts,Use encryption. Validate certificates.
+DDoS Attack on Linux targeting Financial Systems,Monitor traffic. Use mitigation tools. Contact ISP.
+Privilege Escalation via Cloud targeting Financial Systems,Patch vulnerabilities. Enforce access controls.
+Privilege Escalation on Linux targeting Financial Systems,Patch vulnerabilities. Enforce access controls.
+Insider Threat via Email targeting Customer Data,Monitor user activity. Enforce least privilege.
+Privilege Escalation via Web App targeting Customer Data,Patch vulnerabilities. Enforce access controls.
+SQL Injection on Mobile targeting Financial Systems,Validate inputs. Use prepared statements.
+Credential Stuffing on Linux targeting Employee Accounts,Detect anomalies. Enforce MFA.
+Malicious Insider via Web App targeting Customer Data,Implement segregation of duties.
+Credential Stuffing on Linux targeting IoT Devices,Detect anomalies. Enforce MFA.
+Password Spraying on Linux targeting IoT Devices,Monitor logins. Enforce MFA and lockouts.
+DNS Spoofing on Windows targeting Financial Systems,Use DNSSEC. Monitor DNS traffic.
+DNS Spoofing via Web App targeting IoT Devices,Use DNSSEC. Monitor DNS traffic.
+Ransomware Attack via USB targeting IoT Devices,Isolate systems. Do not pay ransom. Restore backups.
+Zero-Day Exploit via Network targeting Customer Data,Apply patches promptly. Use behavior detection.
+Business Email Compromise on Windows targeting IoT Devices,Verify transfer requests. Use dual control.
+Insider Threat on Linux targeting Financial Systems,Monitor user activity. Enforce least privilege.
+Ransomware Attack on Windows targeting Internal Network,Isolate systems. Do not pay ransom. Restore backups.
+Malware Infection via USB targeting IoT Devices,Run antivirus. Remove malware. Update definitions.
+Malware Infection on Linux targeting Employee Accounts,Run antivirus. Remove malware. Update definitions.
+Phishing Email via Web App targeting Financial Systems,Do not click links. Report email. Run antivirus scan.
+Drive-by Download via Cloud targeting Employee Accounts,Block malicious sites. Scan devices.
+Social Engineering via USB targeting Customer Data,User training. Verification procedures.
+DNS Spoofing via Email targeting IoT Devices,Use DNSSEC. Monitor DNS traffic.
+Man-in-the-Middle via Network targeting Internal Network,Use encryption. Validate certificates.
+Password Spraying on Mobile targeting Financial Systems,Monitor logins. Enforce MFA and lockouts.
+Spear Phishing on Mobile targeting Financial Systems,Verify sender identity. Educate users. Use email filters.
+Data Exfiltration via Network targeting Customer Data,Monitor data flows. Encrypt sensitive data.
+DNS Spoofing on Windows targeting IoT Devices,Use DNSSEC. Monitor DNS traffic.
+Privilege Escalation via Cloud targeting Employee Accounts,Patch vulnerabilities. Enforce access controls.
+SQL Injection via Web App targeting Customer Data,Validate inputs. Use prepared statements.
+Drive-by Download via USB targeting Employee Accounts,Block malicious sites. Scan devices.
+Data Exfiltration on Mobile targeting Internal Network,Monitor data flows. Encrypt sensitive data.
+DDoS Attack on Linux targeting IoT Devices,Monitor traffic. Use mitigation tools. Contact ISP.
+Cross-Site Scripting (XSS) via Email targeting IoT Devices,Sanitize user inputs. Use CSP headers.
+Ransomware Attack on Mobile targeting Employee Accounts,Isolate systems. Do not pay ransom. Restore backups.
+SQL Injection via Web App targeting Financial Systems,Validate inputs. Use prepared statements.
+Password Spraying via Email targeting Financial Systems,Monitor logins. Enforce MFA and lockouts.
+Business Email Compromise via USB targeting Employee Accounts,Verify transfer requests. Use dual control.
+Zero-Day Exploit via Email targeting Financial Systems,Apply patches promptly. Use behavior detection.
+DDoS Attack on Linux targeting Employee Accounts,Monitor traffic. Use mitigation tools. Contact ISP.
+Insider Threat via Web App targeting Customer Data,Monitor user activity. Enforce least privilege.
+Ransomware Attack via Cloud targeting Employee Accounts,Isolate systems. Do not pay ransom. Restore backups.
+Cross-Site Scripting (XSS) on Mobile targeting Financial Systems,Sanitize user inputs. Use CSP headers.
+Spear Phishing via Web App targeting Financial Systems,Verify sender identity. Educate users. Use email filters.
+Password Spraying via USB targeting Internal Network,Monitor logins. Enforce MFA and lockouts.
+Insider Threat on Mobile targeting Financial Systems,Monitor user activity. Enforce least privilege.
+Password Spraying via Cloud targeting IoT Devices,Monitor logins. Enforce MFA and lockouts.
+Social Engineering on Linux targeting Financial Systems,User training. Verification procedures.
+Business Email Compromise via USB targeting Internal Network,Verify transfer requests. Use dual control.
+Phishing Email via Email targeting Customer Data,Do not click links. Report email. Run antivirus scan.
+Zero-Day Exploit on Windows targeting IoT Devices,Apply patches promptly. Use behavior detection.
+Ransomware Attack via Network targeting Internal Network,Isolate systems. Do not pay ransom. Restore backups.
+Man-in-the-Middle via Web App targeting Financial Systems,Use encryption. Validate certificates.
+Password Spraying via Network targeting Internal Network,Monitor logins. Enforce MFA and lockouts.
+Drive-by Download on Mobile targeting Customer Data,Block malicious sites. Scan devices.
+Keylogger Infection via Web App targeting Internal Network,Detect and remove keyloggers. Change passwords.
+SQL Injection via Network targeting Customer Data,Validate inputs. Use prepared statements.
+Drive-by Download on Windows targeting Internal Network,Block malicious sites. Scan devices.
+Data Exfiltration on Windows targeting Internal Network,Monitor data flows. Encrypt sensitive data.
+Drive-by Download via Web App targeting IoT Devices,Block malicious sites. Scan devices.
+Data Exfiltration on Mobile targeting Financial Systems,Monitor data flows. Encrypt sensitive data.
+Keylogger Infection via USB targeting Internal Network,Detect and remove keyloggers. Change passwords.
+Man-in-the-Middle on Mobile targeting Internal Network,Use encryption. Validate certificates.
+Password Spraying on Windows targeting Financial Systems,Monitor logins. Enforce MFA and lockouts.
+Man-in-the-Middle via Email targeting IoT Devices,Use encryption. Validate certificates.
+Data Exfiltration via Web App targeting IoT Devices,Monitor data flows. Encrypt sensitive data.
+Drive-by Download via Web App targeting Employee Accounts,Block malicious sites. Scan devices.
+Credential Stuffing via Web App targeting Employee Accounts,Detect anomalies. Enforce MFA.
+Phishing Email via Cloud targeting Financial Systems,Do not click links. Report email. Run antivirus scan.
+SQL Injection on Linux targeting Employee Accounts,Validate inputs. Use prepared statements.
+DNS Spoofing via Network targeting Financial Systems,Use DNSSEC. Monitor DNS traffic.
+Password Spraying via USB targeting Customer Data,Monitor logins. Enforce MFA and lockouts.
+Ransomware Attack via Cloud targeting Customer Data,Isolate systems. Do not pay ransom. Restore backups.
+Insider Threat on Windows targeting Customer Data,Monitor user activity. Enforce least privilege.
+Phishing Email via Web App targeting Customer Data,Do not click links. Report email. Run antivirus scan.
+Ransomware Attack on Windows targeting IoT Devices,Isolate systems. Do not pay ransom. Restore backups.
+Spear Phishing via Network targeting IoT Devices,Verify sender identity. Educate users. Use email filters.
+Keylogger Infection via Web App targeting Customer Data,Detect and remove keyloggers. Change passwords.
+SQL Injection on Windows targeting Internal Network,Validate inputs. Use prepared statements.
+DNS Spoofing via USB targeting Customer Data,Use DNSSEC. Monitor DNS traffic.
+Insider Threat via USB targeting Internal Network,Monitor user activity. Enforce least privilege.
+Business Email Compromise via Network targeting Internal Network,Verify transfer requests. Use dual control.
+Keylogger Infection via Email targeting Customer Data,Detect and remove keyloggers. Change passwords.
+Ransomware Attack via Network targeting Employee Accounts,Isolate systems. Do not pay ransom. Restore backups.
+Privilege Escalation via USB targeting Internal Network,Patch vulnerabilities. Enforce access controls.
+Privilege Escalation via USB targeting Financial Systems,Patch vulnerabilities. Enforce access controls.
+DDoS Attack via Cloud targeting Customer Data,Monitor traffic. Use mitigation tools. Contact ISP.
+DDoS Attack on Windows targeting Employee Accounts,Monitor traffic. Use mitigation tools. Contact ISP.
+Ransomware Attack via Email targeting Internal Network,Isolate systems. Do not pay ransom. Restore backups.
+Social Engineering via Web App targeting Financial Systems,User training. Verification procedures.
+Ransomware Attack via Web App targeting Employee Accounts,Isolate systems. Do not pay ransom. Restore backups.
+Phishing Email via Cloud targeting Internal Network,Do not click links. Report email. Run antivirus scan.
+Privilege Escalation on Mobile targeting Employee Accounts,Patch vulnerabilities. Enforce access controls.
+DDoS Attack on Linux targeting Internal Network,Monitor traffic. Use mitigation tools. Contact ISP.
+Password Spraying via USB targeting Employee Accounts,Monitor logins. Enforce MFA and lockouts.
+DNS Spoofing on Mobile targeting Customer Data,Use DNSSEC. Monitor DNS traffic.
+DDoS Attack via Cloud targeting Employee Accounts,Monitor traffic. Use mitigation tools. Contact ISP.
+Ransomware Attack via USB targeting Customer Data,Isolate systems. Do not pay ransom. Restore backups.
+Social Engineering via Cloud targeting Financial Systems,User training. Verification procedures.
+SQL Injection on Linux targeting Internal Network,Validate inputs. Use prepared statements.
+Keylogger Infection via USB targeting IoT Devices,Detect and remove keyloggers. Change passwords.
+Zero-Day Exploit via Network targeting IoT Devices,Apply patches promptly. Use behavior detection.
+Credential Stuffing on Windows targeting Customer Data,Detect anomalies. Enforce MFA.
+Ransomware Attack via USB targeting Financial Systems,Isolate systems. Do not pay ransom. Restore backups.
+Cross-Site Scripting (XSS) via Web App targeting Employee Accounts,Sanitize user inputs. Use CSP headers.
+Credential Stuffing via Cloud targeting Employee Accounts,Detect anomalies. Enforce MFA.
+Man-in-the-Middle via Cloud targeting Internal Network,Use encryption. Validate certificates.
+Malicious Insider on Mobile targeting Financial Systems,Implement segregation of duties.
+DDoS Attack via Email targeting IoT Devices,Monitor traffic. Use mitigation tools. Contact ISP.
+Spear Phishing on Linux targeting Employee Accounts,Verify sender identity. Educate users. Use email filters.
+Cross-Site Scripting (XSS) via Email targeting Internal Network,Sanitize user inputs. Use CSP headers.
+Keylogger Infection via Email targeting IoT Devices,Detect and remove keyloggers. Change passwords.
+Keylogger Infection via Cloud targeting Financial Systems,Detect and remove keyloggers. Change passwords.
+Malicious Insider via USB targeting IoT Devices,Implement segregation of duties.
+Cross-Site Scripting (XSS) on Windows targeting IoT Devices,Sanitize user inputs. Use CSP headers.
+DDoS Attack via Network targeting Financial Systems,Monitor traffic. Use mitigation tools. Contact ISP.
+Business Email Compromise via Email targeting IoT Devices,Verify transfer requests. Use dual control.
+Social Engineering via Network targeting Financial Systems,User training. Verification procedures.
+Malicious Insider on Linux targeting Financial Systems,Implement segregation of duties.
+Malicious Insider on Mobile targeting Internal Network,Implement segregation of duties.
+Man-in-the-Middle on Linux targeting Employee Accounts,Use encryption. Validate certificates.
+Keylogger Infection on Linux targeting Financial Systems,Detect and remove keyloggers. Change passwords.
+Malicious Insider on Windows targeting Financial Systems,Implement segregation of duties.
+Social Engineering via USB targeting IoT Devices,User training. Verification procedures.
+Cross-Site Scripting (XSS) via Email targeting Customer Data,Sanitize user inputs. Use CSP headers.
+Insider Threat via Email targeting Internal Network,Monitor user activity. Enforce least privilege.
+Social Engineering via USB targeting Employee Accounts,User training. Verification procedures.
+Man-in-the-Middle on Windows targeting IoT Devices,Use encryption. Validate certificates.
+Credential Stuffing on Linux targeting Internal Network,Detect anomalies. Enforce MFA.
+Zero-Day Exploit on Linux targeting Employee Accounts,Apply patches promptly. Use behavior detection.
+Social Engineering on Windows targeting Internal Network,User training. Verification procedures.
+Password Spraying via USB targeting IoT Devices,Monitor logins. Enforce MFA and lockouts.
+Malicious Insider via Network targeting Customer Data,Implement segregation of duties.
+Credential Stuffing on Mobile targeting Financial Systems,Detect anomalies. Enforce MFA.
+Drive-by Download via USB targeting Customer Data,Block malicious sites. Scan devices.
+Social Engineering via Web App targeting Customer Data,User training. Verification procedures.
+DNS Spoofing via USB targeting IoT Devices,Use DNSSEC. Monitor DNS traffic.
+Insider Threat via Cloud targeting Internal Network,Monitor user activity. Enforce least privilege.
+Keylogger Infection via Cloud targeting Employee Accounts,Detect and remove keyloggers. Change passwords.
+Man-in-the-Middle on Windows targeting Financial Systems,Use encryption. Validate certificates.
+Malicious Insider via Network targeting Financial Systems,Implement segregation of duties.
+Malicious Insider via Web App targeting Employee Accounts,Implement segregation of duties.
+Malware Infection on Linux targeting Internal Network,Run antivirus. Remove malware. Update definitions.
+Keylogger Infection via Email targeting Financial Systems,Detect and remove keyloggers. Change passwords.
+Credential Stuffing on Mobile targeting Internal Network,Detect anomalies. Enforce MFA.
+Business Email Compromise on Linux targeting Customer Data,Verify transfer requests. Use dual control.
+Password Spraying via Web App targeting Employee Accounts,Monitor logins. Enforce MFA and lockouts.
+Zero-Day Exploit via USB targeting Employee Accounts,Apply patches promptly. Use behavior detection.
+Malware Infection via Email targeting Internal Network,Run antivirus. Remove malware. Update definitions.
+Man-in-the-Middle via Cloud targeting Customer Data,Use encryption. Validate certificates.
+Insider Threat via USB targeting Financial Systems,Monitor user activity. Enforce least privilege.
+DNS Spoofing via Cloud targeting Employee Accounts,Use DNSSEC. Monitor DNS traffic.
+Zero-Day Exploit via USB targeting Internal Network,Apply patches promptly. Use behavior detection.
+Man-in-the-Middle on Mobile targeting IoT Devices,Use encryption. Validate certificates.
+Insider Threat via Email targeting IoT Devices,Monitor user activity. Enforce least privilege.
+Man-in-the-Middle via Cloud targeting Financial Systems,Use encryption. Validate certificates.
+Business Email Compromise via Network targeting Employee Accounts,Verify transfer requests. Use dual control.
+Keylogger Infection on Windows targeting Internal Network,Detect and remove keyloggers. Change passwords.
+Credential Stuffing via Network targeting IoT Devices,Detect anomalies. Enforce MFA.
+Keylogger Infection on Linux targeting IoT Devices,Detect and remove keyloggers. Change passwords.
+Zero-Day Exploit on Linux targeting IoT Devices,Apply patches promptly. Use behavior detection.
+Ransomware Attack via Network targeting IoT Devices,Isolate systems. Do not pay ransom. Restore backups.
+DNS Spoofing via Web App targeting Financial Systems,Use DNSSEC. Monitor DNS traffic.
+Business Email Compromise via Web App targeting Financial Systems,Verify transfer requests. Use dual control.
+Data Exfiltration via Email targeting Employee Accounts,Monitor data flows. Encrypt sensitive data.
+Malicious Insider on Windows targeting Internal Network,Implement segregation of duties.
+Keylogger Infection via USB targeting Financial Systems,Detect and remove keyloggers. Change passwords.
+Spear Phishing via Network targeting Internal Network,Verify sender identity. Educate users. Use email filters.
+Cross-Site Scripting (XSS) on Mobile targeting IoT Devices,Sanitize user inputs. Use CSP headers.
+DDoS Attack via Cloud targeting IoT Devices,Monitor traffic. Use mitigation tools. Contact ISP.
+Phishing Email on Windows targeting Customer Data,Do not click links. Report email. Run antivirus scan.
+DNS Spoofing via Cloud targeting IoT Devices,Use DNSSEC. Monitor DNS traffic.
+Drive-by Download on Linux targeting Internal Network,Block malicious sites. Scan devices.
+Privilege Escalation via Network targeting Financial Systems,Patch vulnerabilities. Enforce access controls.
+Spear Phishing on Linux targeting Internal Network,Verify sender identity. Educate users. Use email filters.
+Business Email Compromise via Network targeting Financial Systems,Verify transfer requests. Use dual control.
+Zero-Day Exploit via Web App targeting Financial Systems,Apply patches promptly. Use behavior detection.
+Zero-Day Exploit via Cloud targeting Internal Network,Apply patches promptly. Use behavior detection.
+Drive-by Download via Cloud targeting IoT Devices,Block malicious sites. Scan devices.
+SQL Injection on Linux targeting Customer Data,Validate inputs. Use prepared statements.
+Drive-by Download on Mobile targeting Financial Systems,Block malicious sites. Scan devices.
+Drive-by Download via Cloud targeting Internal Network,Block malicious sites. Scan devices.
+Data Exfiltration on Windows targeting Customer Data,Monitor data flows. Encrypt sensitive data.
+Data Exfiltration via Network targeting Employee Accounts,Monitor data flows. Encrypt sensitive data.
+Privilege Escalation via Network targeting IoT Devices,Patch vulnerabilities. Enforce access controls.
+Insider Threat on Windows targeting IoT Devices,Monitor user activity. Enforce least privilege.
+Malware Infection on Linux targeting IoT Devices,Run antivirus. Remove malware. Update definitions.
+SQL Injection via USB targeting Internal Network,Validate inputs. Use prepared statements.
+Password Spraying via Web App targeting Financial Systems,Monitor logins. Enforce MFA and lockouts.
+Privilege Escalation via USB targeting Employee Accounts,Patch vulnerabilities. Enforce access controls.
+Drive-by Download via Cloud targeting Customer Data,Block malicious sites. Scan devices.
+Malicious Insider via Network targeting Employee Accounts,Implement segregation of duties.
+Phishing Email on Linux targeting IoT Devices,Do not click links. Report email. Run antivirus scan.
+Password Spraying via Web App targeting IoT Devices,Monitor logins. Enforce MFA and lockouts.
+Social Engineering on Linux targeting Internal Network,User training. Verification procedures.
+Phishing Email via Network targeting Customer Data,Do not click links. Report email. Run antivirus scan.
+Business Email Compromise via Network targeting IoT Devices,Verify transfer requests. Use dual control.
+Credential Stuffing via Network targeting Customer Data,Detect anomalies. Enforce MFA.
+Keylogger Infection on Linux targeting Employee Accounts,Detect and remove keyloggers. Change passwords.
+Business Email Compromise via Cloud targeting Financial Systems,Verify transfer requests. Use dual control.
+Privilege Escalation on Linux targeting IoT Devices,Patch vulnerabilities. Enforce access controls.
+DDoS Attack via USB targeting Customer Data,Monitor traffic. Use mitigation tools. Contact ISP.
+Zero-Day Exploit on Mobile targeting Financial Systems,Apply patches promptly. Use behavior detection.
+Password Spraying via Web App targeting Internal Network,Monitor logins. Enforce MFA and lockouts.
+Privilege Escalation via Web App targeting Employee Accounts,Patch vulnerabilities. Enforce access controls.
+Ransomware Attack via Cloud targeting Financial Systems,Isolate systems. Do not pay ransom. Restore backups.
+Cross-Site Scripting (XSS) via Web App targeting Internal Network,Sanitize user inputs. Use CSP headers.
+Data Exfiltration on Windows targeting Financial Systems,Monitor data flows. Encrypt sensitive data.
+Zero-Day Exploit via USB targeting IoT Devices,Apply patches promptly. Use behavior detection.
+Man-in-the-Middle via Cloud targeting IoT Devices,Use encryption. Validate certificates.
+Insider Threat via USB targeting Employee Accounts,Monitor user activity. Enforce least privilege.
+Spear Phishing on Linux targeting Customer Data,Verify sender identity. Educate users. Use email filters.
+Ransomware Attack on Linux targeting IoT Devices,Isolate systems. Do not pay ransom. Restore backups.
+Business Email Compromise on Mobile targeting IoT Devices,Verify transfer requests. Use dual control.
+Spear Phishing via USB targeting Financial Systems,Verify sender identity. Educate users. Use email filters.
+Ransomware Attack on Windows targeting Customer Data,Isolate systems. Do not pay ransom. Restore backups.
+Business Email Compromise via Cloud targeting Internal Network,Verify transfer requests. Use dual control.
+SQL Injection via Email targeting Financial Systems,Validate inputs. Use prepared statements.
+Password Spraying via Email targeting Internal Network,Monitor logins. Enforce MFA and lockouts.
+Zero-Day Exploit on Linux targeting Customer Data,Apply patches promptly. Use behavior detection.
+Drive-by Download on Windows targeting Customer Data,Block malicious sites. Scan devices.
+Zero-Day Exploit via Email targeting Internal Network,Apply patches promptly. Use behavior detection.
+Man-in-the-Middle via Network targeting IoT Devices,Use encryption. Validate certificates.
+Cross-Site Scripting (XSS) via Email targeting Employee Accounts,Sanitize user inputs. Use CSP headers.
+Spear Phishing via USB targeting Internal Network,Verify sender identity. Educate users. Use email filters.
+Malware Infection via Email targeting IoT Devices,Run antivirus. Remove malware. Update definitions.
+DNS Spoofing on Mobile targeting Financial Systems,Use DNSSEC. Monitor DNS traffic.
+Man-in-the-Middle via Cloud targeting Employee Accounts,Use encryption. Validate certificates.
+Malicious Insider on Linux targeting Customer Data,Implement segregation of duties.
+Malicious Insider via Cloud targeting IoT Devices,Implement segregation of duties.
+Malicious Insider via Cloud targeting Customer Data,Implement segregation of duties.
+Keylogger Infection on Windows targeting Financial Systems,Detect and remove keyloggers. Change passwords.
+Phishing Email via USB targeting IoT Devices,Do not click links. Report email. Run antivirus scan.
+Malware Infection via Cloud targeting Customer Data,Run antivirus. Remove malware. Update definitions.
+Business Email Compromise via Web App targeting IoT Devices,Verify transfer requests. Use dual control.
+Password Spraying via Email targeting Customer Data,Monitor logins. Enforce MFA and lockouts.
+Business Email Compromise on Mobile targeting Internal Network,Verify transfer requests. Use dual control.
+Credential Stuffing via Web App targeting Financial Systems,Detect anomalies. Enforce MFA.
+DNS Spoofing on Windows targeting Customer Data,Use DNSSEC. Monitor DNS traffic.
+Business Email Compromise on Windows targeting Financial Systems,Verify transfer requests. Use dual control.
+Malware Infection on Mobile targeting Employee Accounts,Run antivirus. Remove malware. Update definitions.
+Malware Infection via Network targeting Employee Accounts,Run antivirus. Remove malware. Update definitions.
+Drive-by Download on Windows targeting Financial Systems,Block malicious sites. Scan devices.
+Credential Stuffing via Email targeting IoT Devices,Detect anomalies. Enforce MFA.
+Cross-Site Scripting (XSS) on Windows targeting Financial Systems,Sanitize user inputs. Use CSP headers.
+Phishing Email via Web App targeting IoT Devices,Do not click links. Report email. Run antivirus scan.
+DNS Spoofing on Linux targeting Financial Systems,Use DNSSEC. Monitor DNS traffic.
+Man-in-the-Middle via Email targeting Internal Network,Use encryption. Validate certificates.
+Malware Infection via USB targeting Customer Data,Run antivirus. Remove malware. Update definitions.
+Zero-Day Exploit via USB targeting Customer Data,Apply patches promptly. Use behavior detection.
+Social Engineering on Linux targeting Customer Data,User training. Verification procedures.
+Password Spraying on Linux targeting Customer Data,Monitor logins. Enforce MFA and lockouts.
+Drive-by Download on Linux targeting Customer Data,Block malicious sites. Scan devices.
+Malicious Insider via USB targeting Internal Network,Implement segregation of duties.
+Credential Stuffing via Cloud targeting Customer Data,Detect anomalies. Enforce MFA.
+Credential Stuffing via Email targeting Financial Systems,Detect anomalies. Enforce MFA.
+Ransomware Attack via Email targeting Financial Systems,Isolate systems. Do not pay ransom. Restore backups.
+DDoS Attack on Mobile targeting IoT Devices,Monitor traffic. Use mitigation tools. Contact ISP.
+Malware Infection via USB targeting Employee Accounts,Run antivirus. Remove malware. Update definitions.
+Data Exfiltration on Linux targeting Financial Systems,Monitor data flows. Encrypt sensitive data.
+DNS Spoofing on Mobile targeting Internal Network,Use DNSSEC. Monitor DNS traffic.
+Malicious Insider on Mobile targeting Employee Accounts,Implement segregation of duties.
+DNS Spoofing on Linux targeting Internal Network,Use DNSSEC. Monitor DNS traffic.
+SQL Injection on Linux targeting Financial Systems,Validate inputs. Use prepared statements.
+Spear Phishing on Windows targeting Internal Network,Verify sender identity. Educate users. Use email filters.
+Malicious Insider via Cloud targeting Employee Accounts,Implement segregation of duties.
+SQL Injection on Mobile targeting Employee Accounts,Validate inputs. Use prepared statements.
+Business Email Compromise via Web App targeting Customer Data,Verify transfer requests. Use dual control.
+Social Engineering via Cloud targeting Employee Accounts,User training. Verification procedures.
+Cross-Site Scripting (XSS) via USB targeting Customer Data,Sanitize user inputs. Use CSP headers.
+DDoS Attack via USB targeting Financial Systems,Monitor traffic. Use mitigation tools. Contact ISP.
+Credential Stuffing via Network targeting Employee Accounts,Detect anomalies. Enforce MFA.
+Phishing Email on Windows targeting IoT Devices,Do not click links. Report email. Run antivirus scan.
+DDoS Attack on Windows targeting Financial Systems,Monitor traffic. Use mitigation tools. Contact ISP.
+Malicious Insider via Cloud targeting Internal Network,Implement segregation of duties.
+Insider Threat on Windows targeting Internal Network,Monitor user activity. Enforce least privilege.
+Spear Phishing via Web App targeting IoT Devices,Verify sender identity. Educate users. Use email filters.
+Password Spraying via Email targeting IoT Devices,Monitor logins. Enforce MFA and lockouts.
+Keylogger Infection on Windows targeting Employee Accounts,Detect and remove keyloggers. Change passwords.
+Keylogger Infection via Email targeting Internal Network,Detect and remove keyloggers. Change passwords.
+DDoS Attack via USB targeting Employee Accounts,Monitor traffic. Use mitigation tools. Contact ISP.
+Phishing Email via Network targeting IoT Devices,Do not click links. Report email. Run antivirus scan.
+Privilege Escalation on Windows targeting Internal Network,Patch vulnerabilities. Enforce access controls.
+Man-in-the-Middle via Network targeting Customer Data,Use encryption. Validate certificates.
+SQL Injection via Cloud targeting Internal Network,Validate inputs. Use prepared statements.
+Credential Stuffing on Windows targeting Financial Systems,Detect anomalies. Enforce MFA.
+Ransomware Attack via Web App targeting Internal Network,Isolate systems. Do not pay ransom. Restore backups.
+Zero-Day Exploit on Mobile targeting Internal Network,Apply patches promptly. Use behavior detection.
+Data Exfiltration via Email targeting IoT Devices,Monitor data flows. Encrypt sensitive data.
+Ransomware Attack via USB targeting Employee Accounts,Isolate systems. Do not pay ransom. Restore backups.
+Privilege Escalation via Email targeting Internal Network,Patch vulnerabilities. Enforce access controls.
+Privilege Escalation via Cloud targeting Customer Data,Patch vulnerabilities. Enforce access controls.
+Ransomware Attack via Cloud targeting Internal Network,Isolate systems. Do not pay ransom. Restore backups.
+Zero-Day Exploit via Web App targeting Internal Network,Apply patches promptly. Use behavior detection.
+DDoS Attack via Web App targeting Financial Systems,Monitor traffic. Use mitigation tools. Contact ISP.
+Cross-Site Scripting (XSS) via Cloud targeting IoT Devices,Sanitize user inputs. Use CSP headers.
+Phishing Email on Mobile targeting Customer Data,Do not click links. Report email. Run antivirus scan.
+Ransomware Attack on Mobile targeting Financial Systems,Isolate systems. Do not pay ransom. Restore backups.
+DNS Spoofing via Network targeting Internal Network,Use DNSSEC. Monitor DNS traffic.
+DDoS Attack via Cloud targeting Internal Network,Monitor traffic. Use mitigation tools. Contact ISP.
+Credential Stuffing via USB targeting IoT Devices,Detect anomalies. Enforce MFA.
+Spear Phishing via Network targeting Financial Systems,Verify sender identity. Educate users. Use email filters.
+Insider Threat via Cloud targeting Customer Data,Monitor user activity. Enforce least privilege.
+Cross-Site Scripting (XSS) on Windows targeting Employee Accounts,Sanitize user inputs. Use CSP headers.
+Insider Threat on Linux targeting IoT Devices,Monitor user activity. Enforce least privilege.
+Insider Threat via Network targeting IoT Devices,Monitor user activity. Enforce least privilege.
+Keylogger Infection on Windows targeting IoT Devices,Detect and remove keyloggers. Change passwords.
+Drive-by Download via Email targeting Customer Data,Block malicious sites. Scan devices.
+Malware Infection on Windows targeting Employee Accounts,Run antivirus. Remove malware. Update definitions.
+SQL Injection via Web App targeting Employee Accounts,Validate inputs. Use prepared statements.
+Social Engineering via USB targeting Financial Systems,User training. Verification procedures.
+Drive-by Download via Web App targeting Customer Data,Block malicious sites. Scan devices.
+Ransomware Attack on Windows targeting Financial Systems,Isolate systems. Do not pay ransom. Restore backups.
+Business Email Compromise via Email targeting Financial Systems,Verify transfer requests. Use dual control.
+Malicious Insider via Web App targeting Financial Systems,Implement segregation of duties.
+Drive-by Download via Network targeting Employee Accounts,Block malicious sites. Scan devices.
+Keylogger Infection via Network targeting Internal Network,Detect and remove keyloggers. Change passwords.
+Data Exfiltration on Linux targeting Internal Network,Monitor data flows. Encrypt sensitive data.
+Privilege Escalation on Windows targeting Employee Accounts,Patch vulnerabilities. Enforce access controls.
+Cross-Site Scripting (XSS) via Web App targeting IoT Devices,Sanitize user inputs. Use CSP headers.
+Social Engineering on Linux targeting Employee Accounts,User training. Verification procedures.
+Spear Phishing via Network targeting Customer Data,Verify sender identity. Educate users. Use email filters.
+Insider Threat on Mobile targeting Employee Accounts,Monitor user activity. Enforce least privilege.
+Man-in-the-Middle via USB targeting Internal Network,Use encryption. Validate certificates.
+Privilege Escalation via Cloud targeting IoT Devices,Patch vulnerabilities. Enforce access controls.
+DDoS Attack on Windows targeting Internal Network,Monitor traffic. Use mitigation tools. Contact ISP.
+Insider Threat on Windows targeting Employee Accounts,Monitor user activity. Enforce least privilege.
+Malware Infection via Network targeting Internal Network,Run antivirus. Remove malware. Update definitions.
+Ransomware Attack via Email targeting IoT Devices,Isolate systems. Do not pay ransom. Restore backups.
+DNS Spoofing on Windows targeting Internal Network,Use DNSSEC. Monitor DNS traffic.
+Social Engineering via Email targeting Customer Data,User training. Verification procedures.
+Keylogger Infection on Mobile targeting Financial Systems,Detect and remove keyloggers. Change passwords.
+Insider Threat via Web App targeting Financial Systems,Monitor user activity. Enforce least privilege.
+DNS Spoofing via Web App targeting Internal Network,Use DNSSEC. Monitor DNS traffic.
+Privilege Escalation on Windows targeting IoT Devices,Patch vulnerabilities. Enforce access controls.
+Business Email Compromise on Mobile targeting Employee Accounts,Verify transfer requests. Use dual control.
+Zero-Day Exploit via Web App targeting Employee Accounts,Apply patches promptly. Use behavior detection.
+Spear Phishing via Cloud targeting Internal Network,Verify sender identity. Educate users. Use email filters.
+Drive-by Download on Linux targeting Financial Systems,Block malicious sites. Scan devices.
+Business Email Compromise via Web App targeting Internal Network,Verify transfer requests. Use dual control.
+Credential Stuffing on Windows targeting Internal Network,Detect anomalies. Enforce MFA.
+Privilege Escalation on Windows targeting Financial Systems,Patch vulnerabilities. Enforce access controls.
+Insider Threat on Windows targeting Financial Systems,Monitor user activity. Enforce least privilege.
+Man-in-the-Middle via Email targeting Customer Data,Use encryption. Validate certificates.
+Phishing Email on Linux targeting Internal Network,Do not click links. Report email. Run antivirus scan.
+Spear Phishing via Web App targeting Employee Accounts,Verify sender identity. Educate users. Use email filters.
+Keylogger Infection via USB targeting Customer Data,Detect and remove keyloggers. Change passwords.
+Password Spraying via Cloud targeting Internal Network,Monitor logins. Enforce MFA and lockouts.
+DDoS Attack on Mobile targeting Internal Network,Monitor traffic. Use mitigation tools. Contact ISP.
+Spear Phishing on Mobile targeting IoT Devices,Verify sender identity. Educate users. Use email filters.
+Data Exfiltration via Cloud targeting IoT Devices,Monitor data flows. Encrypt sensitive data.
+Phishing Email via Network targeting Employee Accounts,Do not click links. Report email. Run antivirus scan.
+Data Exfiltration via Email targeting Internal Network,Monitor data flows. Encrypt sensitive data.
+Spear Phishing via Cloud targeting IoT Devices,Verify sender identity. Educate users. Use email filters.
+Credential Stuffing via Email targeting Customer Data,Detect anomalies. Enforce MFA.
+Social Engineering via Network targeting IoT Devices,User training. Verification procedures.
+Data Exfiltration on Windows targeting IoT Devices,Monitor data flows. Encrypt sensitive data.
+Business Email Compromise via Cloud targeting IoT Devices,Verify transfer requests. Use dual control.
+Malware Infection via Cloud targeting Financial Systems,Run antivirus. Remove malware. Update definitions.
+Data Exfiltration via USB targeting Customer Data,Monitor data flows. Encrypt sensitive data.
+Credential Stuffing via Cloud targeting IoT Devices,Detect anomalies. Enforce MFA.
+Phishing Email via Email targeting IoT Devices,Do not click links. Report email. Run antivirus scan.
+Malware Infection on Linux targeting Financial Systems,Run antivirus. Remove malware. Update definitions.
+Credential Stuffing on Mobile targeting Customer Data,Detect anomalies. Enforce MFA.
+SQL Injection on Windows targeting Financial Systems,Validate inputs. Use prepared statements.
+DNS Spoofing via USB targeting Internal Network,Use DNSSEC. Monitor DNS traffic.
+Drive-by Download on Mobile targeting Employee Accounts,Block malicious sites. Scan devices.
+Social Engineering on Windows targeting Financial Systems,User training. Verification procedures.
+Social Engineering on Mobile targeting Financial Systems,User training. Verification procedures.
+Privilege Escalation on Mobile targeting Internal Network,Patch vulnerabilities. Enforce access controls.
+Privilege Escalation via Web App targeting Financial Systems,Patch vulnerabilities. Enforce access controls.
+Social Engineering on Mobile targeting Employee Accounts,User training. Verification procedures.
+DNS Spoofing via Cloud targeting Internal Network,Use DNSSEC. Monitor DNS traffic.
+DDoS Attack via Email targeting Customer Data,Monitor traffic. Use mitigation tools. Contact ISP.
+Keylogger Infection via Cloud targeting Internal Network,Detect and remove keyloggers. Change passwords.
+Ransomware Attack via Email targeting Customer Data,Isolate systems. Do not pay ransom. Restore backups.
+Zero-Day Exploit on Mobile targeting Customer Data,Apply patches promptly. Use behavior detection.
+Zero-Day Exploit via USB targeting Financial Systems,Apply patches promptly. Use behavior detection.
+Drive-by Download on Linux targeting Employee Accounts,Block malicious sites. Scan devices.
+Cross-Site Scripting (XSS) on Linux targeting IoT Devices,Sanitize user inputs. Use CSP headers.
+Spear Phishing via Email targeting Customer Data,Verify sender identity. Educate users. Use email filters.
+Business Email Compromise on Mobile targeting Financial Systems,Verify transfer requests. Use dual control.
+Spear Phishing via Email targeting Internal Network,Verify sender identity. Educate users. Use email filters.
+Cross-Site Scripting (XSS) via Cloud targeting Financial Systems,Sanitize user inputs. Use CSP headers.
+Social Engineering via USB targeting Internal Network,User training. Verification procedures.
+Malware Infection on Windows targeting Customer Data,Run antivirus. Remove malware. Update definitions.
+Data Exfiltration via Network targeting IoT Devices,Monitor data flows. Encrypt sensitive data.
+Malware Infection via Web App targeting Customer Data,Run antivirus. Remove malware. Update definitions.
+Spear Phishing via Email targeting IoT Devices,Verify sender identity. Educate users. Use email filters.
+SQL Injection via Cloud targeting Financial Systems,Validate inputs. Use prepared statements.
+Man-in-the-Middle on Windows targeting Internal Network,Use encryption. Validate certificates.
+Keylogger Infection via USB targeting Employee Accounts,Detect and remove keyloggers. Change passwords.
+Insider Threat via Web App targeting Internal Network,Monitor user activity. Enforce least privilege.
+Spear Phishing via USB targeting IoT Devices,Verify sender identity. Educate users. Use email filters.
+Cross-Site Scripting (XSS) on Linux targeting Financial Systems,Sanitize user inputs. Use CSP headers.
+Man-in-the-Middle via Network targeting Financial Systems,Use encryption. Validate certificates.
+Password Spraying on Linux targeting Internal Network,Monitor logins. Enforce MFA and lockouts.
+Data Exfiltration via USB targeting Internal Network,Monitor data flows. Encrypt sensitive data.
+DDoS Attack on Mobile targeting Customer Data,Monitor traffic. Use mitigation tools. Contact ISP.
+Malware Infection via Web App targeting Employee Accounts,Run antivirus. Remove malware. Update definitions.
+SQL Injection on Windows targeting Customer Data,Validate inputs. Use prepared statements.
+Man-in-the-Middle on Linux targeting Internal Network,Use encryption. Validate certificates.
+Zero-Day Exploit on Windows targeting Customer Data,Apply patches promptly. Use behavior detection.
+DNS Spoofing on Mobile targeting IoT Devices,Use DNSSEC. Monitor DNS traffic.
+Password Spraying on Linux targeting Employee Accounts,Monitor logins. Enforce MFA and lockouts.
+Malicious Insider on Windows targeting Customer Data,Implement segregation of duties.
+Privilege Escalation on Mobile targeting Customer Data,Patch vulnerabilities. Enforce access controls.
+Keylogger Infection via Network targeting IoT Devices,Detect and remove keyloggers. Change passwords.
+Malicious Insider on Linux targeting IoT Devices,Implement segregation of duties.
+Ransomware Attack on Mobile targeting Customer Data,Isolate systems. Do not pay ransom. Restore backups.
+Ransomware Attack via Web App targeting IoT Devices,Isolate systems. Do not pay ransom. Restore backups.
+Malicious Insider via Email targeting IoT Devices,Implement segregation of duties.
+Zero-Day Exploit via Network targeting Financial Systems,Apply patches promptly. Use behavior detection.
+Social Engineering via Email targeting Internal Network,User training. Verification procedures.
+Social Engineering via Network targeting Employee Accounts,User training. Verification procedures.
+Phishing Email via Cloud targeting IoT Devices,Do not click links. Report email. Run antivirus scan.
+Malware Infection via Cloud targeting Employee Accounts,Run antivirus. Remove malware. Update definitions.
+Credential Stuffing via Web App targeting IoT Devices,Detect anomalies. Enforce MFA.
+Insider Threat via Email targeting Employee Accounts,Monitor user activity. Enforce least privilege.
+DDoS Attack on Windows targeting IoT Devices,Monitor traffic. Use mitigation tools. Contact ISP.
+Social Engineering via Email targeting IoT Devices,User training. Verification procedures.
+Keylogger Infection via Cloud targeting Customer Data,Detect and remove keyloggers. Change passwords.
+Business Email Compromise via Email targeting Internal Network,Verify transfer requests. Use dual control.
+Malicious Insider on Windows targeting IoT Devices,Implement segregation of duties.
+Keylogger Infection via Web App targeting IoT Devices,Detect and remove keyloggers. Change passwords.
+Ransomware Attack via Cloud targeting IoT Devices,Isolate systems. Do not pay ransom. Restore backups.
+Cross-Site Scripting (XSS) via Web App targeting Customer Data,Sanitize user inputs. Use CSP headers.
+Privilege Escalation via Network targeting Internal Network,Patch vulnerabilities. Enforce access controls.
+Data Exfiltration via Email targeting Customer Data,Monitor data flows. Encrypt sensitive data.
+DDoS Attack via Network targeting Internal Network,Monitor traffic. Use mitigation tools. Contact ISP.
+Cross-Site Scripting (XSS) via USB targeting Employee Accounts,Sanitize user inputs. Use CSP headers.
+SQL Injection via USB targeting Customer Data,Validate inputs. Use prepared statements.
+DDoS Attack via Web App targeting IoT Devices,Monitor traffic. Use mitigation tools. Contact ISP.
+Spear Phishing on Windows targeting Employee Accounts,Verify sender identity. Educate users. Use email filters.
+Man-in-the-Middle on Linux targeting Financial Systems,Use encryption. Validate certificates.
+SQL Injection via Network targeting IoT Devices,Validate inputs. Use prepared statements.
+Ransomware Attack on Linux targeting Customer Data,Isolate systems. Do not pay ransom. Restore backups.
+Insider Threat via Web App targeting Employee Accounts,Monitor user activity. Enforce least privilege.
+Password Spraying on Mobile targeting IoT Devices,Monitor logins. Enforce MFA and lockouts.
+Ransomware Attack on Mobile targeting Internal Network,Isolate systems. Do not pay ransom. Restore backups.
+Drive-by Download on Linux targeting IoT Devices,Block malicious sites. Scan devices.
+Malware Infection via USB targeting Financial Systems,Run antivirus. Remove malware. Update definitions.
+Password Spraying on Linux targeting Financial Systems,Monitor logins. Enforce MFA and lockouts.
+Privilege Escalation via USB targeting Customer Data,Patch vulnerabilities. Enforce access controls.
+Credential Stuffing on Windows targeting IoT Devices,Detect anomalies. Enforce MFA.
+Cross-Site Scripting (XSS) on Linux targeting Employee Accounts,Sanitize user inputs. Use CSP headers.
+Password Spraying on Mobile targeting Internal Network,Monitor logins. Enforce MFA and lockouts.
+Credential Stuffing on Windows targeting Employee Accounts,Detect anomalies. Enforce MFA.
+Data Exfiltration via USB targeting Employee Accounts,Monitor data flows. Encrypt sensitive data.
+DDoS Attack via USB targeting IoT Devices,Monitor traffic. Use mitigation tools. Contact ISP.
+Phishing Email via USB targeting Financial Systems,Do not click links. Report email. Run antivirus scan.
+Privilege Escalation via Network targeting Customer Data,Patch vulnerabilities. Enforce access controls.
+Insider Threat via Network targeting Financial Systems,Monitor user activity. Enforce least privilege.
+Spear Phishing via Email targeting Financial Systems,Verify sender identity. Educate users. Use email filters.
+Keylogger Infection on Linux targeting Internal Network,Detect and remove keyloggers. Change passwords.
