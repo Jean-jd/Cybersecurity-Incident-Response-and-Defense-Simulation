@@ -38,8 +38,8 @@ Built With
 
 Installation
 
-git clone https://github.com/yourusername/cybershield-rw.git  
-cd cybershield-rw  
+git clone https://github.com/Jean-jd/cybershield-rw.git
+cd  cybershield-rw 
 python3 -m venv cyberenv  
 source cyberenv/bin/activate  
 pip install -r requirements.txt  
